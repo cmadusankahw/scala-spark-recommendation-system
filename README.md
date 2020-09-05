@@ -5,12 +5,12 @@ Recommendation systems can be defined as software applications that draw out and
 ## Instructions to build
 
 ### Requirements
-  Java Development Kit(JDK) > 1.8
-  Spark> 2.11+
-  Scala> 2.9+
-  sbt
-  Maven 
-  InteliJ IDE (Preferred)
+  Java Development Kit(JDK) > 1.8 (space)
+  Spark> 2.11+ (space)
+  Scala> 2.9+ (space)
+  sbt (space)
+  Maven  (space)
+  InteliJ IDE (Preferred) (space)
   
 ### Step 1:
   Clone the Repository
@@ -23,14 +23,14 @@ Recommendation systems can be defined as software applications that draw out and
   
 ## Instruction to Run
 
-  > This project is built with sbt
-  > Invoke the ### sbt compile project at the root folder project directory
-  > Besides loading build.sbt, the compile task is also loading settings from assembly.sbt 
-  > Run ### sbt assembly
+  > This project is built with sbt (space)
+  > Invoke the **sbt compile** project at the root folder project directory (space)
+  > Besides loading build.sbt, the compile task is also loading settings from assembly.sbt  (space)
+  > Run **sbt assembly**
 
 ## Deployment
 
-  > spark-submit --class "package-name" --master local[2] --deploy-mode client --driver-memory 16g -num-executors 2 --executor-memory 2g --executor-cores 2  
+  > **spark-submit --class "package-name" --master local[2] --deploy-mode client --driver-memory 16g -num-executors 2 --executor-memory 2g --executor-cores 2  
   
 ## Issues & Contributing
 
