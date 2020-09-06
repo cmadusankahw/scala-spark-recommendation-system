@@ -8,7 +8,7 @@ Recommendation systems can be defined as software applications that draw out and
   Java Development Kit(JDK) > 1.8  
   Spark> 2.11+  
   Scala> 2.9+  
-  sbt  
+  Gradle
   Maven  
   InteliJ IDE (Preferred)  
   
@@ -23,10 +23,10 @@ Recommendation systems can be defined as software applications that draw out and
   
 ## Instruction to Run
 
-  > This project is built with sbt  
-  > Invoke the **sbt compile** project at the root folder project directory  
-  > Besides loading build.sbt, the compile task is also loading settings from assembly.sbt  
-  > Run **sbt assembly**
+  > This project is built with Gradle  
+  > Run **gradle wrapper --gradle-version 2.13**  
+  > Run **./gradlew build**  
+  > Run **./gradlew run**  
 
 ## Deployment
 
