@@ -21,4 +21,7 @@ dependencies {
     testCompile group: 'org.scalatest', name: 'scalatest_2.11', version: '3.0.1'
 }
 
-
+jar {
+    baseName = 'scala-recommendation-system'
+    version =  '0.1.0'
+}

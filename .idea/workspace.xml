@@ -29,207 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3fea0c-5a35-4d33-b3f7-9911e265f224" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise01/CharacterCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise01/CharacterCount$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise01/CharacterCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise01/CharacterCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise02/UniqueCharacterCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise03/UniqueCharacterOccurance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$Employee$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Scala_tasks/exercise04/CaseClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/Java/JavaWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/Java/lib/CharCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/Java/lib/FileCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/Java/lib/SentenceCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/Java/lib/WordCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/ScalaWordCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/ScalaWordCount$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/ScalaWordCount$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/ScalaWordCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise01/ScalaWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/Utils$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise02/airportCounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task1$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task2$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task3$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task4$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task5$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task6$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task6$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task6$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/DataFrame/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task1$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task3$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task3$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task3$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task6$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task6$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task6$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RDD/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateDataFrames$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateDataFrames$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateDataFrames$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateDataFrames$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateDataFrames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise03/RealEstateRDDs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamDataFrame$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamDataFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$$anonfun$main$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/ClickStreamRDDs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/DataFrame/Task2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/DataFrame/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/DataFrame/Task3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/DataFrame/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$$anonfun$main$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task3$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task3$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/test/UnitTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise04/RDD/test/UnitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise05/RandomDataGenerator$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise05/RandomDataGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_Scala_tasks/exercise06/SparkMLLib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_test/TestSpark$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_test/TestSpark$$typecreator3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_test/TestSpark$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/Spark_test/TestSpark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.mapping" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.mapping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in/sales_orders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/in/sales_orders.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/recommendationSystem/RecommendationSystem.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recommendationSystem/RecommendationSystem.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,22 +220,22 @@
       <screen x="46" y="27" width="1554" height="873" />
     </state>
     <state x="516" y="247" width="603" height="417" key="#com.intellij.fileTypes.FileTypeChooser/46.27.1554.873@46.27.1554.873" timestamp="1599130513038" />
-    <state width="1508" height="228" key="GridCell.Tab.0.bottom" timestamp="1599370227908">
+    <state width="1508" height="228" key="GridCell.Tab.0.bottom" timestamp="1599370828207">
       <screen x="46" y="27" width="1554" height="873" />
     </state>
-    <state width="1508" height="228" key="GridCell.Tab.0.bottom/46.27.1554.873@46.27.1554.873" timestamp="1599370227908" />
-    <state width="1508" height="228" key="GridCell.Tab.0.center" timestamp="1599370227906">
+    <state width="1508" height="228" key="GridCell.Tab.0.bottom/46.27.1554.873@46.27.1554.873" timestamp="1599370828207" />
+    <state width="1508" height="228" key="GridCell.Tab.0.center" timestamp="1599370828206">
       <screen x="46" y="27" width="1554" height="873" />
     </state>
-    <state width="1508" height="228" key="GridCell.Tab.0.center/46.27.1554.873@46.27.1554.873" timestamp="1599370227906" />
-    <state width="1508" height="228" key="GridCell.Tab.0.left" timestamp="1599370227906">
+    <state width="1508" height="228" key="GridCell.Tab.0.center/46.27.1554.873@46.27.1554.873" timestamp="1599370828206" />
+    <state width="1508" height="228" key="GridCell.Tab.0.left" timestamp="1599370828206">
       <screen x="46" y="27" width="1554" height="873" />
     </state>
-    <state width="1508" height="228" key="GridCell.Tab.0.left/46.27.1554.873@46.27.1554.873" timestamp="1599370227906" />
-    <state width="1508" height="228" key="GridCell.Tab.0.right" timestamp="1599370227907">
+    <state width="1508" height="228" key="GridCell.Tab.0.left/46.27.1554.873@46.27.1554.873" timestamp="1599370828206" />
+    <state width="1508" height="228" key="GridCell.Tab.0.right" timestamp="1599370828207">
       <screen x="46" y="27" width="1554" height="873" />
     </state>
-    <state width="1508" height="228" key="GridCell.Tab.0.right/46.27.1554.873@46.27.1554.873" timestamp="1599370227907" />
+    <state width="1508" height="228" key="GridCell.Tab.0.right/46.27.1554.873@46.27.1554.873" timestamp="1599370828207" />
     <state width="1508" height="283" key="GridCell.Tab.1.bottom" timestamp="1599266942647">
       <screen x="46" y="27" width="1554" height="873" />
     </state>

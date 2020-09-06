@@ -14,24 +14,11 @@ object RecommendationSystem {
     val session = SparkSession.builder().appName("ClickStreamDataFrames").master("local[2]").getOrCreate()
     import session.implicits._
 
-    // loading sales Data into a DataFrame
-    val salesDf = session.read
-      .option("header", "true")
-      .option("inferSchema", value = true)
-      .option("nullValue", "")
-      .option("treatEmptyValuesAsNulls", "true")
-      .csv("in/sales_orders.csv").toDF("UserId","UserName","ProductId","ProductName","Rate","Quantity","Amount")
-      .cache()
+    // loading Sales Data
+    val salesDf =  createSalesDf(session)
 
     // loading sales Leads Data
-    val salesLeadsDf = session.read
-      .option("header", "true")
-      .option("inferSchema", value = true)
-      .option("nullValue", "")
-      .option("treatEmptyValuesAsNulls", "true")
-      .csv("in/sales_leads.csv").toDF("UserId","UserName","ProductId","ProductName")
-      .cache()
-
+    val salesLeadsDf = createLeadsDf(session)
 
     // creating a Dataframe for Ratings Data
     val ratingsDf: DataFrame = salesDf.map( salesOrder =>
@@ -78,4 +65,27 @@ object RecommendationSystem {
     println( salesRecs.foreach(rating =>
       { println( "Customer: " + rating.user + " Product:  " + rating.product + " Rating: " + rating.rating ) } ) )
   }
+
+  // loading sales Data into a DataFrame
+  def createSalesDf(session: SparkSession): DataFrame = {
+    session.read
+      .option("header", "true")
+      .option("inferSchema", value = true)
+      .option("nullValue", "")
+      .option("treatEmptyValuesAsNulls", "true")
+      .csv("in/sales_orders.csv").toDF("UserId","UserName","ProductId","ProductName","Rate","Quantity","Amount")
+      .cache()
+  }
+
+  // loading sales Leads Data into a DataFrame
+  def createLeadsDf(session: SparkSession): DataFrame = {
+    session.read
+      .option("header", "true")
+      .option("inferSchema", value = true)
+      .option("nullValue", "")
+      .option("treatEmptyValuesAsNulls", "true")
+      .csv("in/sales_leads.csv").toDF("UserId","UserName","ProductId","ProductName")
+      .cache()
+  }
 }
+
