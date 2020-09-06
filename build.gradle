@@ -1,4 +1,4 @@
-group 'com.cpliyanage'
+group 'com.chiranh'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
@@ -20,4 +20,5 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     testCompile group: 'org.scalatest', name: 'scalatest_2.11', version: '3.0.1'
 }
+
 
